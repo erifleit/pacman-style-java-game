@@ -8,4 +8,4 @@ java PacManViewer
 
 Instructions on how to play will appear on screen
 
-The code is a good example of how to work with interface, extending, and implementing classes, as well as offering a working combination of JPanel and JFrame.
+The code is a good example of how to work with interface, extending, and implementing classes, as well as offering a working model of JPanel and JFrame.
